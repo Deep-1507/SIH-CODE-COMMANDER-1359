@@ -1,0 +1,65 @@
+[
+ {
+  "flags": "BILMP",
+  "instruction": "could you help me check what delivery methods you offer?",
+  "category": "DELIVERY",
+  "intent": "delivery_options",
+  "response": "Oh, I would be delighted to assist you in discovering our wide array of delivery methods! Allow me to be your guide in unraveling the treasures that await you:\n\n1. Standard Shipping: The perfect choice if you're not in a hurry, with an estimated delivery time of {{Date Range}} business days.\n2. Expedited Shipping: For those who prefer a quicker delivery, expect your package in {{Date Range}} business days.\n3. Overnight Shipping: Need it urgently? Our overnight shipping option guarantees delivery by the next business day.\n4. In-Store Pickup: If you enjoy the convenience of picking up your order locally, we offer in-store pickup at our {{Store Location}}.\n\nThese options are designed to cater to your specific needs and preferences. Should you have any more questions or if there's anything else I can assist you with, please feel free to ask. It's my pleasure to be of service!\""
+ },
+ {
+  "flags": "BLS",
+  "instruction": "shipments to {{Delivery City}}",
+  "category": "DELIVERY",
+  "intent": "delivery_options",
+  "response": "Certainly! Let's explore the shipment options available for {{Delivery City}}. We offer the following delivery options:\n\n1. Standard Shipping: This option typically takes {{Date Range}} business days to deliver to {{Delivery City}}. It's perfect for non-urgent items.\n2. Expedited Shipping: If you need your items a little faster, our expedited shipping option ensures delivery within {{Date Range}} business days.\n3. Overnight Shipping: For those urgent needs, we offer overnight shipping, guaranteeing next business day delivery.\n4. In-Store Pickup: If you prefer a more personal touch, you can choose in-store pickup from one of our local stores in {{Delivery City}}.\n\nThese options ensure that you have the flexibility to choose the shipping method that best fits your needs. If you have any further questions or if there's anything else I can assist you with, please don't hesitate to ask. We're here to make your shipping experience as smooth as possible!"
+ },
+ {
+  "flags": "BCILM",
+  "instruction": "I want to see what shipment options I have, how do I do it?",
+  "category": "DELIVERY",
+  "intent": "delivery_options",
+  "response": "I'll get right on it! I'm thrilled to guide you through the process of exploring the shipment options available to you. To see the various shipment methods we offer, simply follow these steps:\n\n1. Visit our website at {{Website URL}}.\n2. Navigate to the \"Shipping\" or \"Delivery\" section. You may find it under the \"Services,\" \"Help,\" or \"Support\" tab.\n3. Once you're on the shipping page, you'll see a comprehensive list of our shipment options, including details on delivery times, costs, and any additional services or features.\n\nIf you have any questions or need further assistance while exploring the shipment options on our website, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website. Happy exploring!\""
+ },
+ {
+  "flags": "BLM",
+  "instruction": "help me seeing what delivery methods I can choose",
+  "category": "DELIVERY",
+  "intent": "delivery_options",
+  "response": "I'll make it happen! Allow me to guide you through the exciting realm of our delivery methods:\n\nTo view the available delivery options, simply visit our website and navigate to the shipping and delivery section. There, you'll find a comprehensive list of our shipping methods tailored to meet your unique needs and preferences. Whether you desire standard shipping for a leisurely experience or expedited shipping for a quicker delivery, we have options designed to accommodate you.\n\nIf you prefer a more personal touch, our customer support team is available to assist you in exploring the various delivery methods and help you make an informed decision. They can provide you with detailed information, answer any questions you may have, and guide you through the process step-by-step.\n\nRemember, our goal is to provide you with a seamless and delightful delivery experience. So feel free to reach out if you need any further assistance or information. We're here to make sure you find the perfect delivery method for your needs."
+ },
+ {
+  "flags": "BCL",
+  "instruction": "I need to see how soon can I expect the order, help me",
+  "category": "DELIVERY",
+  "intent": "delivery_period",
+  "response": "We understand your urgency to determine the expected arrival time of your order. To assist you better, could you please provide the {{Tracking Number}} or {{Order Number}}? With that information, we'll be able to provide you with an accurate estimate. Thank you for your cooperation in this matter."
+ },
+ {
+  "flags": "BIL",
+  "instruction": "can you show me how long it takes for my shipment to arrive?",
+  "category": "DELIVERY",
+  "intent": "delivery_period",
+  "response": "Thank you for your interest in knowing the estimated delivery time for your shipment. To better assist you, may I please have your {{Tracking Number}} or {{Order Number}}? With this information, I will be able to provide you with an accurate estimate of when your shipment will arrive. Your patience is appreciated as we work to serve you better."
+ },
+ {
+  "flags": "BI",
+  "instruction": "can you give me information about delivery periods?",
+  "category": "DELIVERY",
+  "intent": "delivery_period",
+  "response": "We completely understand your curiosity about delivery periods. Our delivery times vary depending on the shipping method and the destination. Please provide us with your {{Shipping Address}} or {{Zip Code}}, and we will be able to provide you with a more accurate estimate of the delivery period. Your satisfaction is our priority!"
+ },
+ {
+  "flags": "BIL",
+  "instruction": "where can I find information about shipping periods?",
+  "category": "DELIVERY",
+  "intent": "delivery_period",
+  "response": "We understand your need for information about shipping periods. You can find this information on our website under the \"Shipping\" or \"Delivery\" section. There, you will be able to see the estimated shipping time for different regions or countries, as well as any additional details or requirements. Feel free to explore our website and reach out to us if you have any further questions. We're here to assist you!"
+ },
+ {
+  "flags": "BLQ",
+  "instruction": "i need assistance to see when will my product arrive",
+  "category": "DELIVERY",
+  "intent": "delivery_period",
+  "response": "We understand your anticipation and desire to track the progress of your order and determine its estimated arrival time. To provide you with this information, we kindly request that you provide us with the {{Tracking Number}} or {{Order Number}} associated with your purchase. With these details, we will be able to provide you with an accurate update on the delivery status and estimated delivery date. Thank you for your understanding and cooperation in this matter."
+ }
+]

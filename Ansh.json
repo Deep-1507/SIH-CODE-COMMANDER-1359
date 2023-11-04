@@ -1,0 +1,73 @@
+[
+ {
+  "flags": "BILZ",
+  "instruction": "what do I have to do to leave a review about a servie?",
+  "category": "FEEDBACK",
+  "intent": "review",
+  "response": "We greatly appreciate your interest in leaving a review about our service! To do so, you can follow these simple steps:\n\n1. Visit our website or app and log in to your account.\n2. Navigate to the page or section relevant to the service you wish to review.\n3. Find the option to leave a review or provide feedback.\n4. Click on that option and a form or text box should appear where you can write your review.\n5. Take your time to compose your review, sharing your thoughts, experiences, and any suggestions for improvement.\n6. Once you're satisfied with your review, click the submit button or any other button labeled as \"Submit Review\" or similar.\n\nPlease note that the exact process may vary depending on the platform or service you used. If you encounter any difficulties or have any further questions, feel free to let me know, and I'll be more than happy to assist you. Your feedback is valuable to us, and we appreciate you taking the time to review our service."
+ },
+ null,
+ {
+  "flags": "BILQ",
+  "instruction": "where can i make a consumer claim against ur organization",
+  "category": "FEEDBACK",
+  "intent": "complaint",
+  "response": "I sincerely apologize for any issues you've encountered and I appreciate you reaching out to make a consumer claim. To address your concern, please follow these steps to submit your claim. First, visit our website at {{Website URL}}. On our homepage, you will find a section labeled \"Support\" or \"Customer Service.\" Click on that section and you will be directed to our support page. On the support page, you will see a link or a button that says \"File a Claim\" or \"Submit a Complaint.\" Click on that link or button, and you will be guided through the process of making your consumer claim. Please provide all the necessary details and supporting documentation so that we can thoroughly investigate and resolve your claim. If you encounter any difficulties or have any further questions, please don't hesitate to reach out to our customer service team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}} or through the Live Chat feature on our website. We are committed to resolving your claim as efficiently and fairly as possible."
+ },
+ null,
+ {
+  "flags": "BELP",
+  "instruction": "I do not know how I could write an opinion for a product",
+  "category": "FEEDBACK",
+  "intent": "review",
+  "response": "Thank you for reaching out! I'm here to guide you on how to write an opinion for a product. Writing a review is a great way to share your thoughts and experiences with others. To write a review for a product, you can follow these steps:\n\n1. Start by visiting the product page on our website.\n2. Scroll down to the reviews section.\n3. Click on the \"Write a Review\" button.\n4. Rate the product using a star rating system, usually from 1 to 5 stars.\n5. Provide a title for your review that summarizes your overall opinion.\n6. Share your detailed thoughts about the product in the review description box.\n7. If there are specific aspects of the product you'd like to highlight, mention them in your review.\n8. Finally, click on the \"Submit\" button to post your review.\n\nRemember, your opinion matters to us, and your feedback helps us improve our products and services. If you have any further questions or need assistance with any other aspect, feel free to let me know."
+ },
+ null,
+ {
+  "flags": "BEL",
+  "instruction": "I do not know what I need to do to send my feedback",
+  "category": "FEEDBACK",
+  "intent": "review",
+  "response": "Thank you for expressing your interest in providing feedback. Sending your feedback is a straightforward process. Let me guide you through the steps:\n\n1. Visit our website and navigate to the \"Contact Us\" or \"Feedback\" section.\n2. There, you will find a form or an email address dedicated to feedback submission.\n3. Fill out the form or compose an email, detailing your experience, suggestions, or any other feedback you would like to share.\n4. If there are specific categories or areas you would like to address, please mention them in your feedback to help us better understand your concerns.\n5. Once you have provided all the necessary information, click \"Submit\" or send your email.\n\nRest assured that your feedback will be received and reviewed by the appropriate department. We greatly appreciate your contribution to enhancing our services. If you face any difficulties or have any further questions, please don't hesitate to let me know."
+ },
+ null,
+ {
+  "flags": "BILQZ",
+  "instruction": "how can isubmit my feedback for ur company",
+  "category": "FEEDBACK",
+  "intent": "review",
+  "response": "For sure! I'm here to guide you through the process of submitting your valuable feedback for our company. To ensure that your feedback reaches the right department, please follow these simple steps:\n\n1. Visit our official website and log in to your account.\n2. Navigate to the \"Contact Us\" or \"Feedback\" section. You can usually find it in the footer or under the \"Help\" menu.\n3. Select the option to provide feedback or leave a review.\n4. Fill out the feedback form with detailed information about your experience, suggestions, or any specific concerns you may have.\n5. If applicable, mention the specific product, service, or department that your feedback is related to.\n6. Double-check your feedback for accuracy and completeness.\n7. Click on the \"Submit\" or \"Send\" button to submit your feedback.\n\nRest assured that your feedback is highly valued and will be reviewed by our team. We appreciate you taking the time to provide us with your insights, as they help us improve our products and services for all our valuable customers. If you need any further assistance or have any specific questions, please feel free to let me know."
+ },
+ null,
+ {
+  "flags": "BIL",
+  "instruction": "how to locate my bill #12588?",
+  "category": "INVOICE",
+  "intent": "check_invoice",
+  "response": "I'll take care of it! I'm here to assist you with locating your bill with the number #{{Invoice Number}}. To find your invoice, you can follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for the option to search or filter invoices.\n4. Enter the invoice number #{{Invoice Number}} in the search bar.\n5. Click on the search button or press enter.\n\nThese steps should help you locate your specific bill with the number #{{Invoice Number}}. If you encounter any issues or need further assistance, please don't hesitate to let me know."
+ },
+ null,
+ {
+  "flags": "BIL",
+  "instruction": "what do I need to do to see my bill from {{Person Name}}?",
+  "category": "INVOICE",
+  "intent": "check_invoice",
+  "response": "I understand your curiosity about accessing your bill from {{Person Name}}. To view the invoice, you can follow these steps:\n1. Log in to your account on our website or app.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for the specific invoice related to {{Person Name}}.\n4. Click on the invoice to open the details and view the bill amount, due date, and other relevant information.\n\nIf you're unable to locate the invoice or encounter any difficulties, please don't hesitate to reach out to our customer support team. They will be more than happy to assist you further in retrieving your bill from {{Person Name}}."
+ },
+ null,
+ {
+  "flags": "BL",
+  "instruction": "help me to see invoice #37777",
+  "category": "INVOICE",
+  "intent": "check_invoice",
+  "response": "I'm on it! I'm here to assist you with seeing the invoice with the number #{{Invoice Number}}. To help you quickly access the invoice details, please follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to the \"Invoices\" section or a similar option, depending on the platform you're using.\n3. Look for the search bar or filter options, typically located at the top or side of the page.\n4. Enter the invoice number #{{Invoice Number}} in the search bar or select the relevant filters.\n5. Click on the \"Search\" or \"Find\" button to initiate the search process.\n6. Wait for a moment while the system retrieves the invoice matching the provided number.\n7. Once the invoice appears on the screen, you can click on it to view the complete details.\n\nIf you encounter any difficulties or have further questions, please don't hesitate to reach out to our dedicated customer support team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're always here to help you with any concerns or inquiries you might have. Let's get that invoice in your hands swiftly!\"\n\nNote: Please note that the placeholders {{Invoice Number}}, {{Customer Support Hours}}, {{Customer Support Phone Number}}, and {{Website URL}} are used to anonymize the personally identifiable information (PII) elements in the response."
+ },
+ null,
+ {
+  "flags": "BLMQ",
+  "instruction": "i need assistance to download the bills from {{Person Name}}",
+  "category": "INVOICE",
+  "intent": "get_invoice",
+  "response": "I understand your need to download the bills from {{Salutation}} {{Client Last Name}}. Let me assist you with that. To download the bills, please follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for the option to download or view your bills.\n4. Click on the appropriate button or link.\n5. The bill should open in a new window or prompt you to save the file.\n6. Choose the desired location to save the bill on your device.\n\nIf you encounter any difficulties during this process or need further assistance, please don't hesitate to let me know. I'm here to help!\""
+ }
+]

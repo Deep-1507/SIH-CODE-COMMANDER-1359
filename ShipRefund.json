@@ -1,0 +1,100 @@
+{
+"Sheet1":[
+ null,
+ {
+  "FLAGS": "BL",
+  "INSTRUCTION": "give me information about a delivery address modification",
+  "CATEGORY": "SHIPPING",
+  "INTENT": "change_shipping_address",
+  "RESPONSE": " Please follow the steps below to update it:\n1. Log in to your account on our website.\n2. Navigate to the \"My Account\" or \"Settings\" section.\n3. Find the option to edit your shipping address and click on it.\n4. Enter the new address details accurately.\n5. Save the changes.\n6. Double-check the updated address to ensure its correctness.\n\nIf you encounter any difficulties or have further questions, feel free to reach out to our customer support team. We're here to help!"
+ },
+ {
+  "FLAGS": "BLM",
+  "INSTRUCTION": "I have troubles trying to change my shipping address",
+  "CATEGORY": "SHIPPING",
+  "INTENT": "change_shipping_address",
+  "RESPONSE": "I apologize for the inconvenience. If you are facing errors while trying to modify your shipping address, please try the following troubleshooting steps:\n\n1. Double-check the address details: Make sure you have entered the correct address information, including street name, number, city, and postal code. Any incorrect or missing information can cause errors.\n\n2. Clear cache and cookies: Sometimes, outdated data stored in your browser's cache can interfere with the address update process. Clearing your cache and cookies can help resolve this issue. You can refer to your browser's documentation for instructions on how to do this.\n\n3. Try a different browser or device: Occasionally, certain browsers or devices may have compatibility issues with our address update system. Switching to a different browser or device might help resolve the problem.\n\n4. Contact customer support: If you have tried the above steps and are still experiencing errors, please reach out to our customer support team. They will be able to assist you further and ensure that your shipping address is updated correctly."
+ },
+ {
+  "INSTRUCTION": "what do I have to do to check the cancellation charges?",
+  "CATEGORY": "CANCEL",
+  "INTENT": "check_cancellation_fee",
+  "RESPONSE": "I'm happy to help! To check the cancellation charges, please follow these steps: \n1. Log in to your online account on our website.\n2. Navigate to the \"Account Summary\" or \"Billing\" section.\n3. Look for the \"Fees and Charges\" or \"Cancellation Charges\" subsection.\n4. Click on it to view the detailed information about the cancellation fees applicable to your account.\nIf you need any further assistance, feel free to reach out to our customer support team."
+ },
+ {
+  "INSTRUCTION": "need assistance to check in what cases can i request refunds",
+  "CATEGORY": "REFUND",
+  "INTENT": "check_refund_policy",
+  "RESPONSE": "\n1. **Product\/Service Defect:** If the product or service you received has a defect or does not meet the description provided, you can typically request a refund.\n2. **Cancellation within Grace Period:** If you change your mind and decide to cancel your purchase within the specified grace period, you should be able to request a refund.\n3. **Unauthorized Charges:** If you notice any charges on your account that you did not authorize, we can investigate the issue and assist you with requesting a refund.\n4. **Event Cancellation:** If an event you purchased tickets for gets canceled, and there is no rescheduled date, you may be eligible for a refund.\n5. **Duplicate Charges:** If you notice duplicate charges for the same item on your billing statement, please let us know, and we will help resolve the issue and process a refund if necessary.\n6. **Non-receipt of Goods:** If you did not receive the product you ordered within the expected delivery timeframe, we can assist you in requesting a refund.\n\nIt's important to note that refund policies can vary depending on the vendor or service provider. I recommend reviewing their specific terms and conditions or reaching out to them directly for further information. If you have any specific concerns or need assistance with a particular order, please provide me with the relevant details, such as the order number, and I'll be glad to assist you further.\n\nFeel free to ask any other questions or let me know if there's anything else I can assist you with."
+ },
+ {
+  "FLAGS": "B",
+  "INSTRUCTION": "I want assistance checking how long refunds take",
+  "CATEGORY": "REFUND",
+  "INTENT": "check_refund_policy",
+  "RESPONSE": "Grateful for your contact! I get the sense that you would like to know how long refunds take, and I'd be happy to assist you with that.\n\nThe duration for refund processing can vary depending on several factors, such as the payment method used, the type of product or service, and the specific policies of the vendor or service provider. In general, refunds are typically processed within a specific timeframe, which can range from a few business days up to a couple of weeks. It's important to note that this time frame includes the processing time from our end as well as the time it takes for the refund to be reflected in your account.\n\nTo ensure a seamless refund process, I encourage you to familiarize yourself with the refund policies, terms, and conditions applicable to your specific purchase. This information is usually available on the vendor's or service provider's website, or you can contact their customer support for more detailed information regarding their refund processing times.\n\nIf you have a specific order or transaction that you'd like me to look into to provide a more accurate estimation, please provide me with the necessary details such as the order number or any relevant information, and I'll be glad to assist you further.\n\nWhile the specific duration may vary depending on different factors, including the payment method used and the refund process of the vendor or service provider, let me provide you with a general outline:\n\n1. **Credit Card Refunds:** Refunds to credit cards typically take around 5-7 business days to reflect in your account. However, please keep in mind that it may take longer depending on your financial institution's processing time.\n\n2. **Debit Card Refunds:** Similar to credit card refunds, refunds to debit cards generally take about 5-7 business days. However, it's essential to note that processing times may vary based on your bank and their policies.\n\n3. **Bank Transfer Refunds:** In the case of refunds processed through bank transfers, the time duration can range from 7-14 business days. Once again, this timeline may differ depending on your bank's processes.\n\n4. **PayPal or Other Digital Wallet Refunds:** Refunds processed through digital wallets like PayPal may take approximately 3-5 business days to reflect in your account. However, it's advisable to check with the specific platform or provider for precise information.\n\n5. **Check or Money Order Refunds:** If you've received a refund via check or money order, it generally takes longer due to the mailing and processing time. This can range from 7-21 business days, depending on postal services and other factors.\n"
+ },
+ {
+  "INSTRUCTION": "I need help seeing your refund policy",
+  "CATEGORY": "REFUND",
+  "INTENT": "check_refund_policy",
+  "RESPONSE": "To view our refund policy, please follow these steps:\n\n1. Visit our website at {{Website URL}}.\n2. Navigate to the footer of the page.\n3. Look for the \"Refund Policy\" link, usually located under the \"Customer Support\" or \"Help\" section.\n4. Click on the \"Refund Policy\" link to access the detailed information about our refund process, eligibility criteria, and any other relevant terms and conditions.\n\nIf you encounter any difficulties or have further inquiries while accessing the refund policy, please don't hesitate to reach out. Our dedicated customer support team is available {{Customer Support Hours}} through {{Customer Support Phone Number}} or via the Live Chat on our website."
+ },
+ {
+  "FLAGS": "BLEQ",
+  "INSTRUCTION": "i do not know how i can check ur money back guarantee",
+  "CATEGORY": "REFUND",
+  "INTENT": "check_refund_policy",
+  "RESPONSE": "1. Visit our website's homepage and navigate to the \"Refund\" or \"Money Back Guarantee\" section. This section should outline the terms and conditions of our refund policy.\n2. Look for any subheadings or specific categories related to refunds. This will provide you with a quick overview of the situations in which you might be eligible for a refund.\n3. Pay attention to any important details such as timeframes, product conditions, or required documentation for initiating a refund.\n4. If you have any specific questions or need further clarification, you can contact our customer support team either through our website's live chat or by calling our support hotline. They will be more than happy to guide you through the process and address any concerns you may have.\n\nRemember, a comprehensive understanding of our money back guarantee ensures a smoother experience in case you need to request a refund. If you have any specific details you'd like me to review or if you need further assistance, please feel free to share."
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "INSTRUCTION": "i have problems editing my address"
+ }
+],
+"Sheet2":[],
+"Sheet3":[]
+}
